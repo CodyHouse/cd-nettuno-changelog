@@ -1,9 +1,9 @@
-# 📦 Template Name - changelog
+# 📦 Nettuno - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Template Name template.
+Use this repository to report bugs and get notified about changes affecting the Nettuno template.
 
-- [Live Demo](https://codyhouse.co/demo-templates/template-name/index.html)
-- [Info Page](https://codyhouse.co/template/template-name)
+- [Live Demo](https://codyhouse.co/demo-templates/nettuno/index.html)
+- [Info Page](https://codyhouse.co/template/nettuno)
 
 Before reporting a bug, please make sure to check the 'info page' of the template. 
 
